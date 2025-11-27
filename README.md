@@ -1,2 +1,1 @@
-# Mapa Principală
-Nu ștergeți nimic
+# Figma
