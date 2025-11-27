@@ -1,1 +1,2 @@
-# Planificare-Aplicatiilor-Desktop
+# Mapa Principală
+Nu ștergeți nimic
