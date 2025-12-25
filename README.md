@@ -1,4 +1,4 @@
-# Mapa Principală
-Nu ștergeți nimic
+# Plaificarea Aplicatiilor Desktop
+Prototip Figma
 
 
